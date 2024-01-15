@@ -8,7 +8,7 @@
 
 ### Checkliste der erledigten Aufgaben
 
-- [ ] Aufgabe 1 - Beispiel Projekt ready
+- [x] Aufgabe 1 - Beispiel Projekt ready
 - [ ] Aufgabe 2 - TypeScript einführen
 - [ ] Aufgabe 3 - Types einführen
 - [ ] Aufgabe 4 - Printer erweitern

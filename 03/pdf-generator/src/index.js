@@ -1,10 +1,10 @@
 const { print } = require("./common/printer");
 
 const providedData = {
-    test: 'data',
-    lore: 'ipsum',
+    test: 'tester',
+    lore: 'bob',
     data: {
-        lore: 'ipsums',
+        lore: 'baum',
         ipsum: 'lore',
         'test': 'test'
 
